@@ -2,4 +2,4 @@
 
 A starter kit for learning the basics of programming with Go Language 
 
-It's mostly for my own usage so that I won't forget how Go Lang works. I learned the most of it from YouTube channels or Go documents. I'll add new topics (Concurrency, Network, etc.) to this repository when I learn them (and heve the time to do it). 
+It's mostly for my own usage so that I won't forget how Go Lang works. I learned most of what I've added here from YouTube channels or Go documents. So it's nothing new, Just a couple of files with some examples of basic topics in Go. I'll add new topics (Concurrency, Network, etc.) to this repository when I learn them (and of course, heve the time to do it). 
