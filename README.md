@@ -1,4 +1,4 @@
-# Go-starter-kit
+# Go-starter-pack
 
 A starter pack for learning the basics of programming with Go Language 
 
