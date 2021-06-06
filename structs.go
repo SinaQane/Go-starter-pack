@@ -8,7 +8,7 @@ import (
 // Creating a struct
 
 type User struct {
-	id int `id's tag - required min: "18"`
+	id int `required min:"18"`
 	name string
 	phoneNumber string
 	email string
